@@ -1,3 +1,27 @@
+# Google Play Store Dashboard Using Tableau
+
+## Dashboard Screenshots
+
+### Dashboard 1: Overview
+
+![Google Play Store Dashboard Overview](Dashboard%20Screenshots/Dashboard%201%20(Overview).png)
+
+### Dashboard 2: App Popularity & Install Analysis
+
+![App Popularity and Install Analysis](Dashboard%20Screenshots/Dashboard%202%20(App%20Popularity%20%26%20Install%20Analysis).png)
+
+### Dashboard 3: Rating Analysis
+
+![Rating Analysis](Dashboard%20Screenshots/Dashboard%203%20(Rating%20Analysis).png)
+
+### Dashboard 4: Reviews & User Engagement Analysis
+
+![Reviews and User Engagement Analysis](Dashboard%20Screenshots/Dashboard%204%20(Reviews%20%26%20User%20Engagement%20Analysis).png)
+
+### Dashboard 5: Pricing & Monetization Analysis
+
+![Pricing and Monetization Analysis](Dashboard%20Screenshots/Dashboard%205%20(Pricing%20%26%20Monetization%20Analysis).png)
+
 # Google Play Store App Analytics Dashboard Using Tableau
 
 ## Project Overview
